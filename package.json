@@ -1,0 +1,22 @@
+{
+  "name": "atom-package-upgrader",
+  "version": "1.0.0",
+  "description": "Auto-Updater for atom packages",
+  "main": "lib/main.js",
+  "scripts": {
+    "test": "apm test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/steelbrain/package-upgrader.git"
+  },
+  "keywords": [
+    "atom"
+  ],
+  "author": "steelbrain",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/steelbrain/package-upgrader/issues"
+  },
+  "homepage": "https://github.com/steelbrain/package-upgrader#readme"
+}
