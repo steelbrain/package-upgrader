@@ -10,7 +10,7 @@ __Note:__ You should always have a config in your package that lets users disabl
 
 ```js
 if (atom.config.get('my-package.autoUpdate')) {
-  require('atom-package-upgrader').upgrade('linter')
+  require('atom-package-upgrader').upgrade('my-package')
 }
 ```
 
