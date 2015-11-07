@@ -17,7 +17,7 @@ if (atom.config.get('my-package.autoUpdate')) {
 #### API
 
 ```js
-function upgrade(name = null) {}
+function upgrade(name = null): Disposable
 ```
 
 If no name is provided to upgrade, it tries to guess based on `__dirname`.
