@@ -1,6 +1,10 @@
-### v2.0.1
+### v2.0.2
 
 * Fix automatic package name guessing
+
+### v2.0.1
+
+* Fix a critical typo
 
 ### v2.0.0
 
