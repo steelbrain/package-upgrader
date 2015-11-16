@@ -1,3 +1,7 @@
+### v2.0.1
+
+* Fix automatic package name guessing
+
 ### v2.0.0
 
 * Made `upgrade` return a dispoable instead of void
