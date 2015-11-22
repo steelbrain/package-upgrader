@@ -1,3 +1,7 @@
+### v2.0.4
+
+* Fix a scenario when error would be thrown if package name guessign fails
+
 ### v2.0.3
 
 Use more reliable way of guessing package names
