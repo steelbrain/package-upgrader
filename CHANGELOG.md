@@ -1,4 +1,4 @@
-### Upcoming
+### v2.0.3
 
 Use more reliable way of guessing package names
 
