@@ -20,6 +20,6 @@
   },
   "homepage": "https://github.com/steelbrain/package-upgrader#readme",
   "dependencies": {
-    "callsite": "^1.0.0"
+    "sb-callsite": "^1.0.0"
   }
 }
