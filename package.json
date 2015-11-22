@@ -18,5 +18,8 @@
   "bugs": {
     "url": "https://github.com/steelbrain/package-upgrader/issues"
   },
-  "homepage": "https://github.com/steelbrain/package-upgrader#readme"
+  "homepage": "https://github.com/steelbrain/package-upgrader#readme",
+  "dependencies": {
+    "callsite": "^1.0.0"
+  }
 }
