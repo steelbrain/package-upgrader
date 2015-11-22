@@ -1,3 +1,7 @@
+### v2.0.5
+
+* Replace `callsite` with `sb-callsite`
+
 ### v2.0.4
 
 * Fix a scenario when error would be thrown if package name guessign fails
