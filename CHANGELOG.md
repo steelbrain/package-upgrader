@@ -1,3 +1,7 @@
+### Upcoming
+
+Use more reliable way of guessing package names
+
 ### v2.0.2
 
 * Fix automatic package name guessing
