@@ -1,6 +1,8 @@
 Atom-Package-Upgrader
 =====================
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/steelbrain/package-upgrader.svg)](https://greenkeeper.io/)
+
 Atom-Package-Upgrader is an npm module for you to use in your atom packages. It makes sure that the user always has the latest and greatest version of your package installed.
 It will query the repos for any upgrades, if available, will install them for the user and show a nice notification along the way.
 
